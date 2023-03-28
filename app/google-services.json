@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012459092535",
+    "project_id": "fb-rn-phil128c",
+    "storage_bucket": "fb-rn-phil128c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012459092535:android:64c897e331f26c7405ddb2",
+        "android_client_info": {
+          "package_name": "com.example.firebasestart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012459092535-kr98r8j549mpc583bq5sfis3sr3kilsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3m5rpy9gPWpqIjQCcrYPn1rOZf4n7mo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012459092535-kr98r8j549mpc583bq5sfis3sr3kilsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
