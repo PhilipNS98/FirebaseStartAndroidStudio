@@ -2,11 +2,13 @@ package com.example.firebasestart.model;
 
 public class Note {
     private String text;
-
     private String id;
-    public Note(String text, String id) {
+    private String imageUrl;
+
+    public Note(String text, String id, String imageUrl) {
         this.text = text;
         this.id = id;
+        this.imageUrl = imageUrl;
     }
 
     public String getText() {
@@ -23,6 +25,14 @@ public class Note {
 
     public void setId(String id) {
         this.id = id;
+    }
+
+    public String getImageUrl() {
+        return imageUrl;
+    }
+
+    public void setImageUrl(String imageUrl) {
+        this.imageUrl = imageUrl;
     }
 
     @Override
